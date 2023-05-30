@@ -1,2 +1,2 @@
 Here are is the link to R-NANO's newsletter archive:
-https://github.com/r-nanolab/r-nanolab.github.io/newsletter-html-backup
+https://github.com/r-nanolab/r-nanolab.github.io/tree/main/newsletter-html-backup

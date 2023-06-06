@@ -14,7 +14,7 @@ The role of the repository is to organize the digital long-term publication and 
  
 
 This folder maintains active links to all newsletters from 2023 onwards.
-
+To access the newsletters please go into the folder and open the newsletters.md file. 
  
 
 ## Newsletter-html-backup
